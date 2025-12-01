@@ -12,6 +12,7 @@ These are high-quality annotations generated using our Human-in-the-Loop (HITL) 
 
 Download link (Baidu Netdisk):
 https://pan.baidu.com/s/1X09cfqup0F5s4V_yXKUXpg  
+
 Extraction code: 4146
 
 COPD-Related Pulmonary Vascular Assessment Dataset (125 cases)
@@ -19,9 +20,11 @@ This dataset contains 125 non-enhanced CT scans used to analyze pulmonary arteri
 
 Download link (Baidu Netdisk):
 https://pan.baidu.com/s/1cVlhhiI4JW002pFY6aTMIQ 
+
 Extraction code: be8j
 
 If you use these datasets, please cite our paper:
 
 [1] Accurate Segmentation of Pulmonary Arteries and Veins via a Human-in-the-Loop Framework with Application in COPD. (Full citation will be added once published.)
+
 [2] Chu Y., Luo G., Zhou L., et al. Deep learning-driven pulmonary artery and vein segmentation reveals demography-associated vasculature anatomical differences[J]. Nature Communications, 2025, 16(1): 2262.
