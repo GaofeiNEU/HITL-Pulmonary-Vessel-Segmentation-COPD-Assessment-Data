@@ -1,2 +1,27 @@
 # HITL-Pulmonary-Vessel-Segmentation-COPD-Assessment-Data
-This repository provides datasets from the study on HITL-based pulmonary artery–vein segmentation for COPD analysis. It includes 30 refined ParSe 2022 annotations and 125 COPD-related annotated CT cases, released to support reproducible research and future vascular analysis studies.
+This repository provides the annotated datasets and related resources used in the study:
+
+“Accurate Segmentation of Pulmonary Arteries and Veins via a Human-in-the-Loop Framework with Application in COPD.”
+
+The released datasets support reproducibility, benchmarking, and future research on pulmonary vascular analysis, small-vessel segmentation, and COPD-associated vascular remodeling.
+
+Available Datasets
+
+Refined HiPaS/ParSe 2022 Pulmonary Artery–Vein Annotations (30 cases)
+These are high-quality annotations generated using our Human-in-the-Loop (HITL) refinement process, extending the original ParSe 2022 labels with improved continuity and enhanced small-vessel delineation.
+
+Download link (Baidu Netdisk):
+https://pan.baidu.com/s/1X09cfqup0F5s4V_yXKUXpg  
+Extraction code: 4146
+
+COPD-Related Pulmonary Vascular Assessment Dataset (125 cases)
+This dataset contains 125 non-enhanced CT scans used to analyze pulmonary arterial and venous trees indices. It includes 34 GOLD (Global Initiative for Chronic Obstructive Lung Disease) 1, 35 GOLD 2, 35 GOLD 3, and 21 GOLD 4 cases.
+
+Download link (Baidu Netdisk):
+https://pan.baidu.com/s/1cVlhhiI4JW002pFY6aTMIQ 
+Extraction code: be8j
+
+If you use these datasets, please cite our paper:
+
+[1] Accurate Segmentation of Pulmonary Arteries and Veins via a Human-in-the-Loop Framework with Application in COPD. (Full citation will be added once published.)
+[2] Chu Y., Luo G., Zhou L., et al. Deep learning-driven pulmonary artery and vein segmentation reveals demography-associated vasculature anatomical differences[J]. Nature Communications, 2025, 16(1): 2262.
