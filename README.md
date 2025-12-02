@@ -23,9 +23,7 @@ This dataset contains 125 non-enhanced CT scans used to analyze pulmonary arteri
 
 **Download link (Baidu Netdisk):**
 
-https://pan.baidu.com/s/1cVlhhiI4JW002pFY6aTMIQ 
-
-Extraction code: be8j
+This dataset will be made available once the remaining ethical approval procedures are fully completed.
 
 
 **For questions or collaboration opportunities, please contact:**
