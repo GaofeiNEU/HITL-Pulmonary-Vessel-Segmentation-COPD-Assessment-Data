@@ -8,17 +8,21 @@ The released datasets support reproducibility, benchmarking, and future research
 **Available Datasets**
 
 **1. Refined HiPaS/ParSe 2022 Pulmonary Artery–Vein Annotations (30 cases)**
+
 These are high-quality annotations generated using our Human-in-the-Loop (HITL) refinement process, extending the original ParSe 2022 labels with improved continuity and enhanced small-vessel delineation.
 
 **Download link (Baidu Netdisk):**
+
 https://pan.baidu.com/s/1X09cfqup0F5s4V_yXKUXpg  
 
 Extraction code: 4146
 
 **2. COPD-Related Pulmonary Vascular Assessment Dataset (125 cases)**
+
 This dataset contains 125 non-enhanced CT scans used to analyze pulmonary arterial and venous trees indices. It includes 34 GOLD (Global Initiative for Chronic Obstructive Lung Disease) 1, 35 GOLD 2, 35 GOLD 3, and 21 GOLD 4 cases.
 
 **Download link (Baidu Netdisk):**
+
 https://pan.baidu.com/s/1cVlhhiI4JW002pFY6aTMIQ 
 
 Extraction code: be8j
